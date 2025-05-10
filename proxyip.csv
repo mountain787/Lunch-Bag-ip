@@ -1,12 +1,12 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,网络速度
-18.167.172.112,443,true,HKG,Asia Pacific Hong Kong,15 ms,82890 kB/s,80394.04 kb/s
-34.92.185.165,443,true,HKG,Asia Pacific Hong Kong,14 ms,6444 kB/s,58879.20 kb/s
-3.112.21.102,443,true,NRT,Asia Pacific Tokyo,38 ms,37800 kB/s,38003.08 kb/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,42 ms,35044.74 kb/s
-13.229.159.215,443,true,SIN,Asia Pacific Singapore,43 ms,27891 kB/s,34472.43 kb/s
-13.250.14.76,443,true,SIN,Asia Pacific Singapore,45 ms,32234 kB/s,34278.54 kb/s
-52.76.137.189,443,true,SIN,Asia Pacific Singapore,41 ms,26134 kB/s,31267.11 kb/s
-54.179.193.245,443,true,SIN,Asia Pacific,Singapore,47 ms,30843.33 kb/s
-47.129.163.75,443,true,SIN,Asia Pacific,Singapore,46 ms,29646.23 kb/s
-3.37.70.169,443,true,ICN,Asia Pacific Seoul,54 ms,26181 kB/s,23460.85 kb/s
-34.88.63.160,443,true,CPH,Europe,Copenhagen,266 ms,5839.83 kb/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,15 ms,76808.80 kb/s
+34.92.185.165,443,true,HKG,Asia Pacific,Hong Kong,14 ms,67762.10 kb/s
+3.112.21.102,443,true,NRT,Asia Pacific,Tokyo,38 ms,37193.64 kb/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,42 ms,36163.04 kb/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,45 ms,32557.33 kb/s
+47.129.39.47,443,true,SIN,Asia Pacific,Singapore,45 ms,32498.79 kb/s
+52.76.137.189,443,true,SIN,Asia Pacific,Singapore,45 ms,29081.44 kb/s
+3.112.87.180,443,true,NRT,Asia Pacific,Tokyo,39 ms,27969.82 kb/s
+54.179.193.245,443,true,SIN,Asia Pacific,Singapore,47 ms,25015.92 kb/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,55 ms,23866.76 kb/s
+34.88.63.160,443,true,CPH,Europe,Copenhagen,266 ms,5356.46 kb/s
