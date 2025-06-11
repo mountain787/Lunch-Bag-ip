@@ -1,18 +1,47 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,113 ms,26565 kB/s
-34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,88 ms,25227 kB/s
-48.218.146.196,443,true,NRT,Asia Pacific,Tokyo,108 ms,21350 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,119 ms,18054 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,120 ms,13582 kB/s
-13.229.159.215,443,true,SIN,Asia Pacific,Singapore,104 ms,13305 kB/s
-13.228.155.72,443,true,SIN,Asia Pacific,Singapore,70 ms,11761 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,100 ms,8956 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,106 ms,8930 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,135 ms,7266 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,66 ms,1942 kB/s
-54.169.229.188,443,true,SIN,Asia Pacific,Singapore,71 ms,1445 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,141 ms,1169 kB/s
-18.141.44.153,443,true,SIN,Asia Pacific,Singapore,85 ms,977 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,125 ms,141 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,125 ms,49 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,150 ms,17 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,60 ms,36348 kB/s
+34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,80 ms,34425 kB/s
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,118 ms,29766 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,164 ms,29140 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,115 ms,25367 kB/s
+48.218.146.196,443,true,NRT,Asia Pacific,Tokyo,93 ms,22889 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,119 ms,20057 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,121 ms,13142 kB/s
+13.228.155.72,443,true,SIN,Asia Pacific,Singapore,106 ms,10815 kB/s
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore,106 ms,9395 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,67 ms,2020 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,103 ms,1643 kB/s
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore,70 ms,1524 kB/s
+18.141.44.153,443,true,SIN,Asia Pacific,Singapore,73 ms,1134 kB/s
+54.199.194.64,443,true,NRT,Asia Pacific,Tokyo,117 ms,194 kB/s
+3.112.63.55,443,true,NRT,Asia Pacific,Tokyo,118 ms,172 kB/s
+3.112.75.9,443,true,NRT,Asia Pacific,Tokyo,115 ms,111 kB/s
+35.77.227.181,443,true,NRT,Asia Pacific,Tokyo,117 ms,108 kB/s
+52.193.232.120,443,true,NRT,Asia Pacific,Tokyo,128 ms,86 kB/s
+35.77.230.134,443,true,NRT,Asia Pacific,Tokyo,114 ms,72 kB/s
+3.112.91.112,443,true,NRT,Asia Pacific,Tokyo,115 ms,62 kB/s
+5.102.125.110,443,true,HKG,Asia Pacific,Hong Kong,342 ms,62 kB/s
+43.203.145.68,443,true,ICN,Asia Pacific,Seoul,145 ms,56 kB/s
+35.77.222.239,443,true,NRT,Asia Pacific,Tokyo,112 ms,46 kB/s
+43.203.145.206,443,true,ICN,Asia Pacific,Seoul,144 ms,45 kB/s
+35.77.70.71,443,true,NRT,Asia Pacific,Tokyo,117 ms,43 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,146 ms,41 kB/s
+35.77.217.56,443,true,NRT,Asia Pacific,Tokyo,117 ms,41 kB/s
+3.112.38.27,443,true,NRT,Asia Pacific,Tokyo,115 ms,39 kB/s
+3.112.101.229,443,true,NRT,Asia Pacific,Tokyo,115 ms,37 kB/s
+3.112.17.94,443,true,NRT,Asia Pacific,Tokyo,115 ms,36 kB/s
+35.77.42.40,443,true,NRT,Asia Pacific,Tokyo,115 ms,34 kB/s
+3.112.109.245,443,true,NRT,Asia Pacific,Tokyo,116 ms,24 kB/s
+54.199.24.13,443,true,NRT,Asia Pacific,Tokyo,117 ms,24 kB/s
+3.112.66.56,443,true,NRT,Asia Pacific,Tokyo,115 ms,21 kB/s
+43.203.171.71,443,true,ICN,Asia Pacific,Seoul,143 ms,20 kB/s
+3.37.28.23,443,true,ICN,Asia Pacific,Seoul,144 ms,17 kB/s
+35.75.21.43,443,true,NRT,Asia Pacific,Tokyo,115 ms,16 kB/s
+54.199.195.143,443,true,NRT,Asia Pacific,Tokyo,116 ms,11 kB/s
+52.194.244.40,443,true,NRT,Asia Pacific,Tokyo,114 ms,8 kB/s
+3.112.82.98,443,true,NRT,Asia Pacific,Tokyo,113 ms,0 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,111 ms,0 kB/s
+35.77.61.224,443,true,NRT,Asia Pacific,Tokyo,116 ms,0 kB/s
+3.112.58.118,443,true,NRT,Asia Pacific,Tokyo,118 ms,0 kB/s
+43.203.115.160,443,true,ICN,Asia Pacific,Seoul,148 ms,0 kB/s
+16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,121 ms,0 kB/s
