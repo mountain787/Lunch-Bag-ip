@@ -1,57 +1,40 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,83 ms,40357 kB/s
-34.92.28.249,443,true,HKG,Asia Pacific,Hong Kong,82 ms,35402 kB/s
-54.199.50.178,443,true,NRT,Asia Pacific,Tokyo,66 ms,29602 kB/s
-3.112.101.6,443,true,NRT,Asia Pacific,Tokyo,69 ms,22723 kB/s
-3.112.59.94,443,true,NRT,Asia Pacific,Tokyo,69 ms,21211 kB/s
-3.112.94.195,443,true,NRT,Asia Pacific,Tokyo,69 ms,20572 kB/s
-35.77.40.165,443,true,NRT,Asia Pacific,Tokyo,64 ms,19554 kB/s
-3.112.44.63,443,true,NRT,Asia Pacific,Tokyo,64 ms,19501 kB/s
-3.112.132.51,443,true,NRT,Asia Pacific,Tokyo,62 ms,19284 kB/s
-3.112.91.65,443,true,NRT,Asia Pacific,Tokyo,66 ms,19196 kB/s
-35.77.189.21,443,true,NRT,Asia Pacific,Tokyo,105 ms,19144 kB/s
-35.77.116.216,443,true,NRT,Asia Pacific,Tokyo,77 ms,18889 kB/s
-3.112.45.68,443,true,NRT,Asia Pacific,Tokyo,65 ms,18424 kB/s
-35.75.6.94,443,true,NRT,Asia Pacific,Tokyo,72 ms,18406 kB/s
-54.199.213.132,443,true,NRT,Asia Pacific,Tokyo,60 ms,18278 kB/s
-3.112.70.38,443,true,NRT,Asia Pacific,Tokyo,68 ms,18106 kB/s
-35.77.68.56,443,true,NRT,Asia Pacific,Tokyo,63 ms,17718 kB/s
-54.199.47.155,443,true,NRT,Asia Pacific,Tokyo,66 ms,17513 kB/s
-3.112.94.205,443,true,NRT,Asia Pacific,Tokyo,69 ms,17074 kB/s
-35.77.38.85,443,true,NRT,Asia Pacific,Tokyo,65 ms,16890 kB/s
-35.77.12.25,443,true,NRT,Asia Pacific,Tokyo,64 ms,16753 kB/s
-35.75.12.232,443,true,NRT,Asia Pacific,Tokyo,81 ms,16699 kB/s
-52.194.244.132,443,true,NRT,Asia Pacific,Tokyo,74 ms,16466 kB/s
-35.75.10.48,443,true,NRT,Asia Pacific,Tokyo,87 ms,16410 kB/s
-35.75.21.212,443,true,NRT,Asia Pacific,Tokyo,73 ms,16214 kB/s
-35.77.74.210,443,true,NRT,Asia Pacific,Tokyo,69 ms,15900 kB/s
-52.194.241.115,443,true,NRT,Asia Pacific,Tokyo,77 ms,15846 kB/s
-54.199.211.177,443,true,NRT,Asia Pacific,Tokyo,66 ms,15767 kB/s
-35.77.63.38,443,true,NRT,Asia Pacific,Tokyo,66 ms,15468 kB/s
-35.77.76.122,443,true,NRT,Asia Pacific,Tokyo,65 ms,15425 kB/s
-35.77.118.120,443,true,NRT,Asia Pacific,Tokyo,65 ms,14972 kB/s
-52.193.200.194,443,true,NRT,Asia Pacific,Tokyo,71 ms,14634 kB/s
-35.77.78.133,443,true,NRT,Asia Pacific,Tokyo,64 ms,14351 kB/s
-35.77.77.146,443,true,NRT,Asia Pacific,Tokyo,63 ms,14278 kB/s
-35.75.5.110,443,true,NRT,Asia Pacific,Tokyo,72 ms,13788 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,105 ms,13516 kB/s
-3.112.199.202,443,true,NRT,Asia Pacific,Tokyo,63 ms,12831 kB/s
-48.218.146.196,443,true,NRT,Asia Pacific,Tokyo,96 ms,10769 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,132 ms,10450 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,138 ms,5178 kB/s
-16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,132 ms,4617 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,118 ms,3737 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,149 ms,3027 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,158 ms,2637 kB/s
-13.229.159.215,443,true,SIN,Asia Pacific,Singapore,136 ms,2281 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,151 ms,2004 kB/s
-13.228.155.72,443,true,SIN,Asia Pacific,Singapore,159 ms,1491 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,187 ms,1294 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,129 ms,655 kB/s
-18.141.44.153,443,true,SIN,Asia Pacific,Singapore,79 ms,477 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,91 ms,0 kB/s
-52.194.232.91,443,true,NRT,Asia Pacific,Tokyo,75 ms,0 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,65 ms,0 kB/s
-52.194.189.99,443,true,NRT,Asia Pacific,Tokyo,80 ms,0 kB/s
-35.77.27.48,443,true,NRT,Asia Pacific,Tokyo,63 ms,0 kB/s
-35.77.121.36,443,true,NRT,Asia Pacific,Tokyo,64 ms,0 kB/s
+34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,40 ms,40496 kB/s
+34.92.28.249,443,true,HKG,Asia Pacific,Hong Kong,42 ms,37017 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,130 ms,20540 kB/s
+13.228.155.72,443,true,SIN,Asia Pacific,Singapore,126 ms,20403 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,104 ms,19616 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,120 ms,12894 kB/s
+35.77.118.120,443,true,NRT,Asia Pacific,Tokyo,118 ms,5039 kB/s
+54.199.213.132,443,true,NRT,Asia Pacific,Tokyo,116 ms,4295 kB/s
+35.77.189.21,443,true,NRT,Asia Pacific,Tokyo,128 ms,3907 kB/s
+35.77.74.210,443,true,NRT,Asia Pacific,Tokyo,203 ms,3713 kB/s
+35.77.76.122,443,true,NRT,Asia Pacific,Tokyo,206 ms,3566 kB/s
+52.194.244.132,443,true,NRT,Asia Pacific,Tokyo,125 ms,3525 kB/s
+3.112.70.38,443,true,NRT,Asia Pacific,Tokyo,127 ms,3276 kB/s
+3.112.94.205,443,true,NRT,Asia Pacific,Tokyo,123 ms,3248 kB/s
+35.77.63.38,443,true,NRT,Asia Pacific,Tokyo,140 ms,3000 kB/s
+16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,133 ms,2625 kB/s
+35.77.38.85,443,true,NRT,Asia Pacific,Tokyo,211 ms,2583 kB/s
+52.193.200.194,443,true,NRT,Asia Pacific,Tokyo,123 ms,2510 kB/s
+35.75.12.232,443,true,NRT,Asia Pacific,Tokyo,115 ms,2499 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,120 ms,1730 kB/s
+3.112.94.195,443,true,NRT,Asia Pacific,Tokyo,123 ms,1721 kB/s
+35.77.40.165,443,true,NRT,Asia Pacific,Tokyo,159 ms,1579 kB/s
+35.75.21.212,443,true,NRT,Asia Pacific,Tokyo,123 ms,1537 kB/s
+35.75.5.110,443,true,NRT,Asia Pacific,Tokyo,119 ms,1448 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,87 ms,1328 kB/s
+3.112.45.68,443,true,NRT,Asia Pacific,Tokyo,124 ms,1227 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,133 ms,1181 kB/s
+18.141.44.153,443,true,SIN,Asia Pacific,Singapore,79 ms,1127 kB/s
+35.77.116.216,443,true,NRT,Asia Pacific,Tokyo,118 ms,938 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,150 ms,628 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,96 ms,561 kB/s
+35.75.10.48,443,true,NRT,Asia Pacific,Tokyo,121 ms,364 kB/s
+52.194.241.115,443,true,NRT,Asia Pacific,Tokyo,122 ms,308 kB/s
+54.199.47.155,443,true,NRT,Asia Pacific,Tokyo,117 ms,270 kB/s
+3.112.132.51,443,true,NRT,Asia Pacific,Tokyo,128 ms,226 kB/s
+3.112.199.202,443,true,NRT,Asia Pacific,Tokyo,131 ms,155 kB/s
+35.77.78.133,443,true,NRT,Asia Pacific,Tokyo,199 ms,0 kB/s
+54.199.211.177,443,true,NRT,Asia Pacific,Tokyo,117 ms,0 kB/s
+3.112.59.94,443,true,NRT,Asia Pacific,Tokyo,129 ms,0 kB/s
