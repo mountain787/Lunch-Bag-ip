@@ -1,29 +1,31 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,151 ms,29247 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,104 ms,28316 kB/s
-52.194.252.240,443,true,NRT,Asia Pacific,Tokyo,110 ms,23454 kB/s
-3.112.66.136,443,true,NRT,Asia Pacific,Tokyo,67 ms,21235 kB/s
-35.77.64.201,443,true,NRT,Asia Pacific,Tokyo,64 ms,21125 kB/s
-35.77.38.52,443,true,NRT,Asia Pacific,Tokyo,66 ms,19835 kB/s
-3.112.17.234,443,true,NRT,Asia Pacific,Tokyo,66 ms,18564 kB/s
-3.112.97.76,443,true,NRT,Asia Pacific,Tokyo,63 ms,18088 kB/s
-3.112.16.102,443,true,NRT,Asia Pacific,Tokyo,62 ms,17880 kB/s
-3.112.34.102,443,true,NRT,Asia Pacific,Tokyo,65 ms,17144 kB/s
-35.75.13.250,443,true,NRT,Asia Pacific,Tokyo,74 ms,17008 kB/s
-3.112.124.179,443,true,NRT,Asia Pacific,Tokyo,63 ms,16662 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,138 ms,16539 kB/s
-3.112.129.90,443,true,NRT,Asia Pacific,Tokyo,67 ms,15574 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,123 ms,15190 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,125 ms,14902 kB/s
-3.112.61.212,443,true,NRT,Asia Pacific,Tokyo,62 ms,12796 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,124 ms,6846 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,100 ms,1449 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,106 ms,741 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,95 ms,0 kB/s
-35.75.1.98,443,true,NRT,Asia Pacific,Tokyo,78 ms,0 kB/s
-34.92.28.249,443,true,HKG,Asia Pacific,Hong Kong,93 ms,0 kB/s
-34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,81 ms,0 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,65 ms,0 kB/s
-54.199.209.210,443,true,NRT,Asia Pacific,Tokyo,66 ms,0 kB/s
-54.199.211.177,443,true,NRT,Asia Pacific,Tokyo,65 ms,0 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,67 ms,0 kB/s
+34.92.28.249,443,true,HKG,Asia Pacific,Hong Kong,109 ms,34976 kB/s
+54.199.211.177,443,true,NRT,Asia Pacific,Tokyo,79 ms,33205 kB/s
+35.75.13.250,443,true,NRT,Asia Pacific,Tokyo,108 ms,32525 kB/s
+3.112.17.234,443,true,NRT,Asia Pacific,Tokyo,63 ms,29255 kB/s
+54.199.209.210,443,true,NRT,Asia Pacific,Tokyo,81 ms,28808 kB/s
+35.77.38.52,443,true,NRT,Asia Pacific,Tokyo,67 ms,27979 kB/s
+35.75.1.98,443,true,NRT,Asia Pacific,Tokyo,96 ms,27912 kB/s
+35.77.64.201,443,true,NRT,Asia Pacific,Tokyo,63 ms,26822 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,80 ms,22948 kB/s
+34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,114 ms,18694 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,132 ms,18576 kB/s
+3.112.34.102,443,true,NRT,Asia Pacific,Tokyo,59 ms,16371 kB/s
+3.112.129.90,443,true,NRT,Asia Pacific,Tokyo,67 ms,15745 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,113 ms,15362 kB/s
+3.112.61.212,443,true,NRT,Asia Pacific,Tokyo,61 ms,15294 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,129 ms,14990 kB/s
+3.112.16.102,443,true,NRT,Asia Pacific,Tokyo,64 ms,14528 kB/s
+16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,138 ms,12120 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,148 ms,9451 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,179 ms,5654 kB/s
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore,106 ms,5199 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,91 ms,2489 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,68 ms,1303 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,165 ms,775 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,361 ms,6 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,69 ms,0 kB/s
+52.194.252.240,443,true,NRT,Asia Pacific,Tokyo,60 ms,0 kB/s
+3.112.66.136,443,true,NRT,Asia Pacific,Tokyo,66 ms,0 kB/s
+3.112.97.76,443,true,NRT,Asia Pacific,Tokyo,63 ms,0 kB/s
+3.112.124.179,443,true,NRT,Asia Pacific,Tokyo,70 ms,0 kB/s
