@@ -1,17 +1,15 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,114 ms,30012 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,132 ms,26950 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,178 ms,26573 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,117 ms,26156 kB/s
-35.77.6.182,443,true,NRT,Asia Pacific,Tokyo,77 ms,26013 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,207 ms,22905 kB/s
-54.254.143.148,443,true,SIN,Asia Pacific,Singapore,100 ms,22463 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,128 ms,17276 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,135 ms,16671 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,146 ms,14611 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,110 ms,13216 kB/s
-16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,146 ms,10234 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,150 ms,8141 kB/s
-34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,256 ms,7879 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,71 ms,1325 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,168 ms,1268 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,158 ms,24587 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,158 ms,22695 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,116 ms,21850 kB/s
+35.77.6.182,443,true,NRT,Asia Pacific,Tokyo,111 ms,19847 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,190 ms,17170 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,197 ms,12999 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,189 ms,12974 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,109 ms,11628 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,212 ms,11265 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,92 ms,7245 kB/s
+34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,352 ms,4016 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,131 ms,1108 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,97 ms,984 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,223 ms,715 kB/s
