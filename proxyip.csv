@@ -1,16 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,130 ms,52293 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,201 ms,23699 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,205 ms,18596 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,175 ms,18130 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,116 ms,16935 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,115 ms,16195 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,179 ms,15162 kB/s
-3.112.22.32,443,true,NRT,Asia Pacific,Tokyo,227 ms,14888 kB/s
-35.75.10.122,443,true,NRT,Asia Pacific,Tokyo,160 ms,14077 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,117 ms,12670 kB/s
-13.228.155.72,443,true,SIN,Asia Pacific,Singapore,121 ms,12665 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,98 ms,5881 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,115 ms,1009 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,77 ms,999 kB/s
-16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,118 ms,522 kB/s
+34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,203 ms,48860 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,117 ms,20573 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,238 ms,19639 kB/s
+35.75.10.122,443,true,NRT,Asia Pacific,Tokyo,231 ms,15496 kB/s
+3.112.22.32,443,true,NRT,Asia Pacific,Tokyo,179 ms,14506 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,118 ms,11190 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,93 ms,10099 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,113 ms,9885 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,96 ms,7425 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,111 ms,1756 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,134 ms,1296 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,121 ms,958 kB/s
+5.102.125.110,443,true,HKG,Asia Pacific,Hong Kong,334 ms,116 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,231 ms,0 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,254 ms,0 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,211 ms,0 kB/s
