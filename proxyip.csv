@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,160 ms,50857 kB/s
-54.254.143.148,443,true,SIN,Asia Pacific,Singapore,153 ms,27410 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,165 ms,20731 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,148 ms,20522 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,132 ms,14868 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,165 ms,13352 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,106 ms,11468 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,252 ms,1987 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,115 ms,1911 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,124 ms,885 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,172 ms,273 kB/s
-43.203.112.38,443,true,ICN,Asia Pacific,Seoul,155 ms,52 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,378 ms,21 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,259 ms,13 kB/s
-43.203.111.46,443,true,ICN,Asia Pacific,Seoul,153 ms,9 kB/s
+34.92.221.154,443,true,HKG,Asia Pacific,Hong Kong,86 ms,54920 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,155 ms,32138 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,227 ms,20271 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,145 ms,17373 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,114 ms,16782 kB/s
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,79 ms,14157 kB/s
+16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,112 ms,13842 kB/s
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore,126 ms,11228 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,165 ms,6197 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,108 ms,6148 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,79 ms,1756 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,119 ms,1487 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,110 ms,1185 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,335 ms,10 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,214 ms,0 kB/s
