@@ -1,16 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,222 ms,40189 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,155 ms,26273 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,265 ms,25565 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,107 ms,22188 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,142 ms,17281 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,107 ms,17188 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,131 ms,16530 kB/s
-13.229.159.215,443,true,SIN,Asia Pacific,Singapore,113 ms,15444 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,201 ms,11915 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,130 ms,11401 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,106 ms,9329 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,92 ms,1538 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,94 ms,1298 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,161 ms,1044 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,473 ms,10 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,271 ms,37432 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,239 ms,36386 kB/s
+54.254.143.148,443,true,SIN,Asia Pacific,Singapore,273 ms,25771 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,234 ms,20399 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,140 ms,18859 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,141 ms,18761 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,139 ms,16301 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,206 ms,14839 kB/s
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore,107 ms,14266 kB/s
+13.229.159.215,443,true,SIN,Asia Pacific,Singapore,152 ms,14091 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,100 ms,9617 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,99 ms,7572 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,176 ms,1366 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,174 ms,1354 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,119 ms,986 kB/s
+43.203.199.44,443,true,ICN,Asia Pacific,Seoul,128 ms,0 kB/s
