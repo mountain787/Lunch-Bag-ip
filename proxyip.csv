@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,232 ms,37690 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,214 ms,30116 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,233 ms,26926 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,143 ms,19377 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,245 ms,16267 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,203 ms,14383 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,110 ms,13568 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,112 ms,13336 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,101 ms,12889 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,146 ms,6531 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,156 ms,4966 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,105 ms,1704 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,127 ms,895 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,389 ms,56 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,136 ms,0 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,289 ms,37425 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,222 ms,30946 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,296 ms,21752 kB/s
+43.203.199.44,443,true,ICN,Asia Pacific,Seoul,118 ms,21684 kB/s
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore,92 ms,16746 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,135 ms,14229 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,229 ms,14014 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,94 ms,13711 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,184 ms,13176 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,107 ms,11555 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,107 ms,9678 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,236 ms,4322 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,177 ms,1549 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,107 ms,609 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,490 ms,35 kB/s
