@@ -1,15 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,80 ms,34027 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,63 ms,32737 kB/s
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,75 ms,31623 kB/s
-13.228.155.72,443,true,SIN,Asia Pacific,Singapore,115 ms,23602 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,161 ms,20163 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,121 ms,19498 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,142 ms,17080 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,137 ms,15693 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,114 ms,15664 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,94 ms,13941 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,145 ms,12558 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,103 ms,12148 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,77 ms,1290 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,130 ms,908 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,65 ms,42313 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,71 ms,36947 kB/s
+13.228.155.72,443,true,SIN,Asia Pacific,Singapore,111 ms,25187 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,97 ms,24410 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,112 ms,23338 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,126 ms,18875 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,99 ms,15823 kB/s
+13.228.142.218,443,true,SIN,Asia Pacific,Singapore,110 ms,15778 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,114 ms,15592 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,106 ms,14060 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,114 ms,13086 kB/s
+16.162.99.156,443,true,HKG,Asia Pacific,Hong Kong,116 ms,4790 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,75 ms,1925 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,81 ms,984 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,107 ms,974 kB/s
+43.203.199.44,443,true,ICN,Asia Pacific,Seoul,106 ms,0 kB/s
