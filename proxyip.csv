@@ -1,18 +1,14 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,64 ms,36912 kB/s
-54.169.75.94,443,true,SIN,Asia Pacific,Singapore,65 ms,33064 kB/s
-13.228.155.72,443,true,SIN,Asia Pacific,Singapore,145 ms,30098 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,111 ms,24944 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,116 ms,19077 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,170 ms,17720 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,76 ms,16628 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,147 ms,16477 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,78 ms,13188 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,148 ms,12413 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,73 ms,12216 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,73 ms,1240 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,72 ms,1221 kB/s
-54.169.229.188,443,true,SIN,Asia Pacific,Singapore,78 ms,1079 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,72 ms,1052 kB/s
-54.254.143.148,443,true,SIN,Asia Pacific,Singapore,91 ms,0 kB/s
-43.203.199.44,443,true,ICN,Asia Pacific,Seoul,165 ms,0 kB/s
+54.169.75.94,443,true,SIN,Asia Pacific,Singapore,74 ms,31652 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,81 ms,29640 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,61 ms,26964 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,95 ms,24831 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,72 ms,24461 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,82 ms,21476 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,207 ms,20945 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,127 ms,19418 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,109 ms,17701 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,76 ms,1293 kB/s
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore,70 ms,1257 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,72 ms,1242 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,71 ms,1118 kB/s
