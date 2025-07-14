@@ -1,18 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,61 ms,33234 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,81 ms,32547 kB/s
-54.169.75.94,443,true,SIN,Asia Pacific,Singapore,72 ms,31534 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,154 ms,26142 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,126 ms,23985 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,70 ms,22964 kB/s
-18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,130 ms,20884 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,114 ms,18850 kB/s
-13.228.142.218,443,true,SIN,Asia Pacific,Singapore,99 ms,12124 kB/s
-18.138.176.100,443,true,SIN,Asia Pacific,Singapore,77 ms,11850 kB/s
-13.228.155.72,443,true,SIN,Asia Pacific,Singapore,97 ms,7346 kB/s
-54.169.229.188,443,true,SIN,Asia Pacific,Singapore,72 ms,1247 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,77 ms,1240 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,72 ms,1064 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,74 ms,862 kB/s
-54.254.143.148,443,true,SIN,Asia Pacific,Singapore,70 ms,0 kB/s
-43.203.199.44,443,true,ICN,Asia Pacific,Seoul,108 ms,0 kB/s
+54.169.75.94,443,true,SIN,Asia Pacific,Singapore,77 ms,31840 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,110 ms,31701 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,75 ms,27982 kB/s
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,65 ms,27253 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,90 ms,25218 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,253 ms,24018 kB/s
+18.167.172.112,443,true,HKG,Asia Pacific,Hong Kong,111 ms,20826 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,110 ms,17871 kB/s
+18.138.176.100,443,true,SIN,Asia Pacific,Singapore,78 ms,12507 kB/s
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore,81 ms,1482 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,71 ms,1463 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,78 ms,1249 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,110 ms,1056 kB/s
+54.254.143.148,443,true,SIN,Asia Pacific,Singapore,72 ms,0 kB/s
+13.228.155.72,443,true,SIN,Asia Pacific,Singapore,174 ms,0 kB/s
