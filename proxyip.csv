@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,77 ms,32107 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,147 ms,25581 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,92 ms,25538 kB/s
-54.254.143.148,443,true,SIN,Asia Pacific,Singapore,82 ms,25370 kB/s
-34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,52 ms,24516 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,70 ms,23892 kB/s
-13.212.46.49,443,true,SIN,Asia Pacific,Singapore,90 ms,18785 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,70 ms,18007 kB/s
-16.162.112.244,443,true,HKG,Asia Pacific,Hong Kong,107 ms,15465 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,109 ms,10839 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,118 ms,8367 kB/s
-47.129.6.167,443,true,SIN,Asia Pacific,Singapore,73 ms,1161 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,78 ms,1073 kB/s
-54.169.229.188,443,true,SIN,Asia Pacific,Singapore,69 ms,1018 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,68 ms,1013 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,70 ms,31125 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,66 ms,25456 kB/s
+13.229.233.48,443,true,SIN,Asia Pacific,Singapore,181 ms,24060 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,118 ms,23907 kB/s
+34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,38 ms,23725 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,112 ms,19546 kB/s
+16.162.112.244,443,true,HKG,Asia Pacific,Hong Kong,116 ms,16615 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,117 ms,13726 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,116 ms,13377 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,220 ms,12282 kB/s
+13.212.46.49,443,true,SIN,Asia Pacific,Singapore,164 ms,11681 kB/s
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore,70 ms,1697 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,70 ms,1657 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,78 ms,953 kB/s
+47.129.6.167,443,true,SIN,Asia Pacific,Singapore,72 ms,934 kB/s
