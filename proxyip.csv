@@ -1,17 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,66 ms,3484 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,72 ms,3439 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,142 ms,3351 kB/s
-54.254.143.148,443,true,SIN,Asia Pacific,Singapore,71 ms,3162 kB/s
-34.92.187.216,443,true,SIN,Asia Pacific,Singapore,78 ms,2922 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,113 ms,2799 kB/s
-13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,122 ms,2689 kB/s
-13.212.46.49,443,true,SIN,Asia Pacific,Singapore,136 ms,2402 kB/s
-34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,74 ms,2164 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,99 ms,1191 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,63 ms,1142 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,65 ms,857 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,70 ms,484 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,71 ms,457 kB/s
-54.169.229.188,443,true,SIN,Asia Pacific,Singapore,73 ms,316 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,340 ms,43 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,73 ms,5457 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,106 ms,4697 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,149 ms,3494 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,65 ms,3051 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,101 ms,2938 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,176 ms,2299 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,163 ms,1829 kB/s
+34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,72 ms,1757 kB/s
+13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,145 ms,1694 kB/s
+13.212.46.49,443,true,SIN,Asia Pacific,Singapore,212 ms,1172 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,59 ms,932 kB/s
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore,73 ms,920 kB/s
+34.92.187.216,443,true,SIN,Asia Pacific,Singapore,70 ms,720 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,77 ms,349 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,341 ms,20 kB/s
