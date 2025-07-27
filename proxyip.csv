@@ -1,15 +1,15 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.187.216,443,true,SIN,Asia Pacific,Singapore,80 ms,7939 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,77 ms,3211 kB/s
-13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,106 ms,3151 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,66 ms,2635 kB/s
-34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,78 ms,2624 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,127 ms,2424 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,75 ms,2193 kB/s
-13.212.46.49,443,true,SIN,Asia Pacific,Singapore,250 ms,2045 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,182 ms,1092 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,77 ms,1019 kB/s
-54.169.229.188,443,true,SIN,Asia Pacific,Singapore,63 ms,932 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,158 ms,738 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,101 ms,592 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,358 ms,0 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,112 ms,2191 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,180 ms,2110 kB/s
+13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,149 ms,2087 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,68 ms,1938 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,60 ms,1685 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,98 ms,1410 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,106 ms,1137 kB/s
+34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,78 ms,977 kB/s
+13.212.46.49,443,true,SIN,Asia Pacific,Singapore,184 ms,944 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,65 ms,869 kB/s
+54.169.229.188,443,true,SIN,Asia Pacific,Singapore,70 ms,834 kB/s
+34.92.187.216,443,true,SIN,Asia Pacific,Singapore,71 ms,750 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,71 ms,513 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,359 ms,9 kB/s
