@@ -1,15 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.187.216,443,true,SIN,Asia Pacific,Singapore,37 ms,57065 kB/s
-34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,40 ms,45321 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,85 ms,27315 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,116 ms,26940 kB/s
-13.212.46.49,443,true,SIN,Asia Pacific,Singapore,124 ms,26528 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,138 ms,24152 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,67 ms,19723 kB/s
-34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,33 ms,14119 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,112 ms,10912 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,82 ms,8318 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,69 ms,1612 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,126 ms,1304 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,398 ms,1157 kB/s
-13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,64 ms,1014 kB/s
+34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,39 ms,55932 kB/s
+34.92.187.216,443,true,SIN,Asia Pacific,Singapore,61 ms,45269 kB/s
+13.229.233.48,443,true,SIN,Asia Pacific,Singapore,138 ms,29831 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,121 ms,25870 kB/s
+13.212.46.49,443,true,SIN,Asia Pacific,Singapore,151 ms,21195 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,79 ms,19939 kB/s
+34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,39 ms,17598 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,111 ms,13231 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,162 ms,9027 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,73 ms,8299 kB/s
+13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,111 ms,7750 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,145 ms,3935 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,81 ms,3534 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,69 ms,952 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,74 ms,941 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,389 ms,136 kB/s
