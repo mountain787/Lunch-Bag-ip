@@ -1,15 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.187.216,443,true,SIN,Asia Pacific,Singapore,43 ms,59530 kB/s
-34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,43 ms,44943 kB/s
-13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,86 ms,28354 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,110 ms,26973 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,138 ms,24669 kB/s
-35.75.160.251,443,true,KIX,Asia Pacific,Osaka,72 ms,22579 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,71 ms,14487 kB/s
-13.212.46.49,443,true,SIN,Asia Pacific,Singapore,116 ms,12459 kB/s
-34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,44 ms,9570 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,112 ms,9201 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,73 ms,3645 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,74 ms,1664 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,76 ms,1116 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,426 ms,206 kB/s
+34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,35 ms,51489 kB/s
+34.92.187.216,443,true,SIN,Asia Pacific,Singapore,39 ms,43558 kB/s
+13.229.233.48,443,true,SIN,Asia Pacific,Singapore,106 ms,35055 kB/s
+13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,81 ms,29171 kB/s
+35.75.160.251,443,true,HKG,Asia Pacific,Hong Kong,69 ms,22816 kB/s
+34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,39 ms,20942 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,109 ms,14869 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,70 ms,12721 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,179 ms,11180 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,99 ms,9061 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,100 ms,5614 kB/s
+13.212.46.49,443,true,SIN,Asia Pacific,Singapore,176 ms,3102 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,93 ms,2736 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,73 ms,1096 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,83 ms,1026 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,425 ms,49 kB/s
