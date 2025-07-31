@@ -1,16 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-34.92.187.216,443,true,SIN,Asia Pacific,Singapore,35 ms,37623 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,67 ms,31402 kB/s
-35.75.160.251,443,true,DEL,Asia Pacific,New Delhi,70 ms,30261 kB/s
-34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,37 ms,30142 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,73 ms,21933 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,72 ms,18613 kB/s
-3.37.70.169,443,true,ICN,Asia Pacific,Seoul,125 ms,15793 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,85 ms,15406 kB/s
-13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,97 ms,14694 kB/s
-13.212.46.49,443,true,SIN,Asia Pacific,Singapore,100 ms,12973 kB/s
-34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,40 ms,12304 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,107 ms,9378 kB/s
-52.74.101.26,443,true,SIN,Asia Pacific,Singapore,70 ms,1343 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,78 ms,1004 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,427 ms,10 kB/s
+34.92.187.216,443,true,SIN,Asia Pacific,Singapore,33 ms,39951 kB/s
+35.75.160.251,443,true,KIX,Asia Pacific,Osaka,106 ms,36220 kB/s
+34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,44 ms,33479 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,70 ms,23201 kB/s
+13.231.224.213,443,true,NRT,Asia Pacific,Tokyo,87 ms,22676 kB/s
+3.37.70.169,443,true,ICN,Asia Pacific,Seoul,122 ms,21477 kB/s
+13.212.46.49,443,true,SIN,Asia Pacific,Singapore,91 ms,16470 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,82 ms,12098 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,78 ms,11015 kB/s
+34.92.25.67,443,true,HKG,Asia Pacific,Hong Kong,37 ms,10510 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,108 ms,9710 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,70 ms,8850 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,70 ms,1196 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,101 ms,222 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,435 ms,10 kB/s
