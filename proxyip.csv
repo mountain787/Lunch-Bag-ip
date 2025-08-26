@@ -1,40 +1,23 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,66 ms,37679 kB/s
-54.254.221.222,443,true,SIN,Asia Pacific,Singapore,68 ms,34057 kB/s
-18.143.94.155,443,true,SIN,Asia Pacific,Singapore,67 ms,31925 kB/s
-13.212.58.145,443,true,SIN,Asia Pacific,Singapore,109 ms,31077 kB/s
-13.212.150.221,443,true,SIN,Asia Pacific,Singapore,101 ms,29403 kB/s
-35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,67 ms,29235 kB/s
-34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,72 ms,26273 kB/s
-13.231.231.146,443,true,NRT,Asia Pacific,Tokyo,105 ms,25839 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,124 ms,25472 kB/s
-13.231.211.97,443,true,NRT,Asia Pacific,Tokyo,108 ms,21482 kB/s
-13.230.34.30,443,true,NRT,Asia Pacific,Tokyo,112 ms,19539 kB/s
-16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,118 ms,19475 kB/s
-35.77.24.181,443,true,NRT,Asia Pacific,Tokyo,88 ms,12852 kB/s
-13.250.14.76,443,true,SIN,Asia Pacific,Singapore,71 ms,11777 kB/s
-13.250.131.37,443,true,SIN,Asia Pacific,Singapore,72 ms,11102 kB/s
-13.212.99.125,443,true,SIN,Asia Pacific,Singapore,140 ms,10872 kB/s
-13.212.91.89,443,true,SIN,Asia Pacific,Singapore,134 ms,10746 kB/s
-34.92.205.97,443,true,HKG,Asia Pacific,Hong Kong,76 ms,10440 kB/s
-13.212.241.34,443,true,SIN,Asia Pacific,Singapore,165 ms,10415 kB/s
-13.250.60.24,443,true,SIN,Asia Pacific,Singapore,76 ms,10375 kB/s
-43.203.212.104,443,true,ICN,Asia Pacific,Seoul,164 ms,9316 kB/s
-13.250.50.249,443,true,SIN,Asia Pacific,Singapore,71 ms,6629 kB/s
-13.212.212.97,443,true,SIN,Asia Pacific,Singapore,183 ms,4001 kB/s
-13.250.31.132,443,true,SIN,Asia Pacific,Singapore,64 ms,1542 kB/s
-5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,334 ms,1223 kB/s
-13.212.248.254,443,true,SIN,Asia Pacific,Singapore,165 ms,1012 kB/s
-18.183.222.39,443,true,NRT,Asia Pacific,Tokyo,60 ms,692 kB/s
-13.212.62.198,443,true,SIN,Asia Pacific,Singapore,165 ms,583 kB/s
-13.212.114.6,443,true,SIN,Asia Pacific,Singapore,135 ms,426 kB/s
-13.212.48.207,443,true,SIN,Asia Pacific,Singapore,138 ms,410 kB/s
-18.143.150.201,443,true,SIN,Asia Pacific,Singapore,83 ms,376 kB/s
-13.212.190.132,443,true,SIN,Asia Pacific,Singapore,190 ms,259 kB/s
-13.212.230.228,443,true,SIN,Asia Pacific,Singapore,170 ms,256 kB/s
-13.212.116.242,443,true,SIN,Asia Pacific,Singapore,351 ms,204 kB/s
-43.203.248.90,443,true,ICN,Asia Pacific,Seoul,107 ms,204 kB/s
-13.212.7.253,443,true,SIN,Asia Pacific,Singapore,162 ms,190 kB/s
-13.212.241.186,443,true,SIN,Asia Pacific,Singapore,160 ms,170 kB/s
-13.212.82.121,443,true,SIN,Asia Pacific,Singapore,152 ms,163 kB/s
-18.143.66.189,443,true,SIN,Asia Pacific,Singapore,67 ms,1 kB/s
+34.92.154.91,443,true,HKG,Asia Pacific,Hong Kong,99 ms,24340 kB/s
+18.143.94.155,443,true,SIN,Asia Pacific,Singapore,87 ms,20570 kB/s
+13.212.58.145,443,true,SIN,Asia Pacific,Singapore,175 ms,18661 kB/s
+13.212.48.207,443,true,SIN,Asia Pacific,Singapore,190 ms,17708 kB/s
+18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,71 ms,17634 kB/s
+47.129.161.171,443,true,SIN,Asia Pacific,Singapore,73 ms,17081 kB/s
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,139 ms,15945 kB/s
+16.162.225.15,443,true,HKG,Asia Pacific,Hong Kong,108 ms,15350 kB/s
+13.212.150.221,443,true,SIN,Asia Pacific,Singapore,242 ms,15331 kB/s
+35.75.160.251,443,true,NRT,Asia Pacific,Tokyo,134 ms,14710 kB/s
+13.230.34.30,443,true,NRT,Asia Pacific,Tokyo,90 ms,13294 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,118 ms,12922 kB/s
+13.231.231.146,443,true,NRT,Asia Pacific,Tokyo,85 ms,11859 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,162 ms,6975 kB/s
+13.231.211.97,443,true,NRT,Asia Pacific,Tokyo,93 ms,5491 kB/s
+54.254.221.222,443,true,SIN,Asia Pacific,Singapore,76 ms,4119 kB/s
+34.92.205.97,443,true,HKG,Asia Pacific,Hong Kong,107 ms,3286 kB/s
+13.250.31.132,443,true,SIN,Asia Pacific,Singapore,95 ms,1494 kB/s
+35.77.24.181,443,true,KIX,Asia Pacific,Osaka,183 ms,1369 kB/s
+18.183.222.39,443,true,NRT,Asia Pacific,Tokyo,71 ms,578 kB/s
+18.143.66.189,443,true,SIN,Asia Pacific,Singapore,77 ms,1 kB/s
+5.102.125.25,443,true,HKG,Asia Pacific,Hong Kong,433 ms,0 kB/s
