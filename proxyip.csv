@@ -1,10 +1,13 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-43.207.145.170,443,true,NRT,Asia Pacific,Tokyo,211 ms,23199 kB/s
-43.207.176.121,443,true,NRT,Asia Pacific,Tokyo,218 ms,21859 kB/s
-3.112.123.104,443,true,NRT,Asia Pacific,Tokyo,65 ms,21401 kB/s
-54.179.98.112,443,true,SIN,Asia Pacific,Singapore,67 ms,19604 kB/s
-3.112.68.100,443,true,NRT,Asia Pacific,Tokyo,61 ms,17496 kB/s
-18.183.89.240,443,true,NRT,Asia Pacific,Tokyo,81 ms,17430 kB/s
-13.212.51.76,443,true,SIN,Asia Pacific,Singapore,108 ms,13555 kB/s
-18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,84 ms,8271 kB/s
-18.143.66.189,443,true,SIN,Asia Pacific,Singapore,71 ms,1 kB/s
+3.112.68.100,443,true,NRT,Asia Pacific,Tokyo,113 ms,29698 kB/s
+18.183.89.240,443,true,NRT,Asia Pacific,Tokyo,127 ms,25873 kB/s
+3.112.123.104,443,true,NRT,Asia Pacific,Tokyo,135 ms,20565 kB/s
+43.207.145.170,443,true,NRT,Asia Pacific,Tokyo,101 ms,20088 kB/s
+43.207.176.121,443,true,NRT,Asia Pacific,Tokyo,101 ms,19506 kB/s
+18.143.119.103,443,true,SIN,Asia Pacific,Singapore,71 ms,15524 kB/s
+111.241.91.12,443,true,SJC,North America,San Jose,136 ms,12385 kB/s
+13.212.51.76,443,true,SIN,Asia Pacific,Singapore,132 ms,9381 kB/s
+43.207.74.81,443,true,NRT,Asia Pacific,Tokyo,69 ms,7334 kB/s
+18.183.158.211,443,true,NRT,Asia Pacific,Tokyo,145 ms,5008 kB/s
+18.143.66.189,443,true,SIN,Asia Pacific,Singapore,166 ms,1 kB/s
+54.179.98.112,443,true,SIN,Asia Pacific,Singapore,72 ms,0 kB/s
